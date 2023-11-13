@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    padding: 20px;
+}
+
+.li {
+    border: 1px solid blue;
+}
+
+.hero_container {
+    display: flex;
+    margin-top: 140px;
+    justify-content: space-around;
+}
+
+.hero_left {
+    padding: 100px;
+}
+
+.hero_left h1 {
+    font-size: 72px;
+}
+
+.hero_left span {
+    color: #717CFF;
+}
+
+.hero_left button {
+    border-radius: 5px;
+    padding: 8px;
+    background-color: #717CFF;
+    color: #ffff;
+}
+
+.hero_left p {
+    margin-top: 15px;
+}
+
+.hero_right {
+    overflow: hidden;
+    height: 500px;
+}
+
+
+.experience {
+    margin-top: 50px;
+}
+
+.experience_img {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.experience_h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #373737;
+}
+
+.div1 {
+    text-align: center;
+}
+
+.div1 h1 {
+    margin-bottom: 40px;
+    color: #373737;
+}
+
+.div1 p {
+    font-size: 20px;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.div3 {
+    padding: 20px;
+}
+
+
+.h3 {
+    color: #717CFF;
+}
+
+.div4 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.div4 button {
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #717CFF;
+    color: #ffff;
+    margin-top: 70px;
+}
+
+.div5 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.div5 img {
+    padding-right: 15px;
+}
+
+.head {
+    margin-right: 160px;
+}
+
+
+
+.div7 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #717CFF;
+    color: #ffff;
+}
+
+.div8 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    background-color: #717CFF;
+    padding-top: 80px;
+}
+
+.div9 ul {
+    color: #ffff;
+    list-style: none;
+}
+
+.div9 p {
+    color: #ffff;    
+}
+
+.div10 p {
+    color: #ffff;
+    padding-top: 120px;
+}
+
